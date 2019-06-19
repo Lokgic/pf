@@ -27,6 +27,10 @@ const FlexBox = styled.div`
   height: 460px;
   /* padding: 40px; */
   margin: auto auto 4rem auto;
+  /* @media (max-width: ${props => props.theme.breakpoint.w[0]}) {
+    width: 100%;
+    height: auto;
+  } */
 `;
 
 const FlexText = styled.div`

@@ -20,8 +20,12 @@ const Logo = styled.h1`
   font-weight: 300;
   font-family: ${props => props.theme.muli};
   letter-spacing: 1.8rem;
-  font-size: 2.5rem;
+  font-size: 3rem;
   cursor: pointer;
+  @media (max-width: ${props => props.theme.breakpoint.w[0]}) {
+    letter-spacing: 0.8rem;
+    font-size: 2rem;
+  }
 `;
 
 const MenuLink = styled.a`
@@ -29,13 +33,14 @@ const MenuLink = styled.a`
   text-decoration: none;
   font-weight: ${props => (props.active ? 400 : 300)};
   font-family: ${props => props.theme.opensans};
+  font-size: 2rem;
   cursor: pointer;
   color ${props => (props.active ? "black" : "grey")};
   :hover{
     text-decoration:underline;
   }
   @media (max-width: ${props => props.theme.breakpoint.w[0]}) {
-    /* display: none; */
+    font-size: 1.3rem;
   }
 `;
 
@@ -43,7 +48,7 @@ export default ({ active, setActive }) => {
   return (
     <StyHeader>
       <Link href="/">
-        <Logo>Lok</Logo>
+        <Logo onClick={() => setActive("work")}>Lok</Logo>
       </Link>
 
       <Link href="/">
