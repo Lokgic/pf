@@ -1,0 +1,89 @@
+{
+  "kidney": {
+    "head": "kidney-head.png",
+    "title": "Who Should Get the Kidney?",
+    "desc": "Using Moral Decisions to Improve Kidney Exchange Algorithms",
+    "info": {
+      "project goal": "A data collection project to explore how to incoporate moral judgments in automated kidney distributions",
+      "role": "Web Design and Development, Experimental Design, Data Analysis",
+      "collaborators": "Dr. Jana Schaich Borg, Dr. Vincent Conitzer, Kenzie Doyle, Dr. Walter Sinnott-Armstrong, Dr. John Dickerson, and Duncan McElfresh",
+      "link": "https://whogetsthekidney.com/"
+    },
+
+    "headpic": "1.png"
+  },
+  "deductio": {
+    "head": "deductio-head.png",
+    "title": "Deductio",
+    "desc": "a data-driven web-app for logic education",
+    "info": {
+      "project goal": "Utilize machine learning algorithms to make better logic problems and represent logical structures using visualization.",
+      "role": "Solo project",
+      "link": "http://deductio.io/"
+    },
+
+    "headpic": "1.png"
+  },
+  "dissertation": {
+    "head": "dissertation-head.png",
+    "title": "Doctoral Dissertation in Philosophy",
+    "desc": "Deliberative Bayesianism: Abduction, Reﬂection, and the Weight of Evidence",
+    "info": {
+      "dissertation summary": "Philosophy of statistics played an important role in my dissertation, which could be considered an epistemological work that aims to be statistically informed. The thesis of my dissertation was motivated by the thought that Bayesian epistemologists’ assumptions about rationality are wildly out of sync with the actual practices of Bayesian scientists and statisticians. Drawing from C.S. Peirce’s notion of abduction and Bas van Fraassen’s voluntaristic probabilism, I tried to sketch out a modest position that gives aspects of an agent’s deliberation—such as experimental commitments, intention, and predesignation—a role to play in rational inquiries.",
+      "dissertation supervisor": "Dr. Kevin Hoover",
+      "dissertation committee": "Dr. Vincent Conitzer, Dr. Felipe De Brigard, Dr. Carlotta Pavese",
+      "link": "https://hdl.handle.net/10161/18232"
+    },
+
+    "headpic": "1.png"
+  },
+  "dcis": {
+    "head": "dcis-head.png",
+    "title": "Decision Aids for DCIS Patient",
+    "desc": "A National Institutes of Health Funded Project to Help Patients to Make Decision about Cancer Treatment",
+    "info": {
+      "project goal": "To develop an internative web-based decision support tool with emphasis data visualization and risk communication to help the decision making of patients diagnosed with ductal carcinoma in situ (DCIS). ",
+      "role": "Web Design and Development, Interaction Design, Content Development, Conceptual Framework",
+      "collaborators": "Dr. Marc Ryser, Dr. Ilona Fridman, Jennifer Grant",
+      "link": "https://ryser.netlify.com/research/"
+    },
+    "gallery": ["2.png", "3.png", "4.png", "5.png", "6.png"],
+    "headpic": "1.png"
+  },
+  "lokgic": {
+    "head": "lokgic-head.png",
+    "title": "Lokgic",
+    "desc": "Automated Web App for Duke's Logic Course",
+    "info": {
+      "project goal": "A fully automated webapp that allows me to flip my logic course at Duke University, by algoritmically generating and grading student assignments. ",
+      "role": "Solo project: Web Design and Development, Interaction Design, Content Development, Conceptual Framework",
+      "link": "http://www.lokgic.io/"
+    },
+    "headpic": "1.png",
+    "gallery": ["2.png", "3.png", "4.png"]
+  },
+  "uncertainty": {
+    "head": "uncertainty-head.png",
+    "title": "Visualizing Higher Order Uncertainty",
+    "desc": "Conceptualizing and Visualizing Uncertainty about Uncertainty",
+    "info": {
+      "project goal": "To conceptualize, implement, and empirically test ways in which the uncertainty of our probability estimates (the uncertainty of uncertainty) can be communicated in a novel manner. ",
+      "role": "Web Design and Development, Interaction Design, Content Development, Conceptual Framework, Experimental Design",
+      "collaborators": "Dr. Marc Ryser",
+      "link": "https://lokgic.github.io/equalizer/"
+    },
+    "headpic": "beta1.png"
+  },
+  "moralai": {
+    "head": "moralai-head.png",
+    "title": "Moral AI Lab",
+    "desc": "Can AI and Human make each other more moral?",
+    "info": {
+      "project goal": "An interdiscplinary team of researchers, with backgrounds in computer science, mathematics, neuroscience, philosophy, and psychology, from Duke University that focuses on the social and ethical implications of the development of artificially intelligence system.",
+      "role": "Post-doctoral Associate",
+      "collaborators": "Dr. Jana Schaich Borg, Dr. Vincent Conitzer, Kenzie Doyle, Dr. Walter Sinnott-Armstrong, Dr. John Dickerson, and Duncan McElfresh",
+      "link": "http://moralai.cs.duke.edu/"
+    },
+    "headpic": "moralai-head.jpg"
+  }
+}
