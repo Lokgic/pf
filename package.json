@@ -4,7 +4,7 @@
   "description": "personal page",
   "main": "index.js",
   "dependencies": {
-    "acorn": "^6.1.x",
+    "acorn": "^6.4.x",
     "d3": "^5",
     "next": "^8.1.x",
     "react": "^16.8.6",
