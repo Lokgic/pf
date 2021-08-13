@@ -6,7 +6,7 @@
   "dependencies": {
     "acorn": "^6.1.x",
     "d3": "^5",
-    "next": "^8.1.x",
+    "next": "^11.1.x",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-spring": "^8",
